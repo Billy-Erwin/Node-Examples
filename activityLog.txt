@@ -1,0 +1,28 @@
+
+Log Time: 20150715014255 : {"method":"POST","path":"/api/createConfiguration","msg":"Configuration added successfully"}
+Log Time: 20150715014414 : 1 expired tokens removed from blacklist
+Log Time: 20150715014414 : Success getConfiguration
+Log Time: 20150715014414 : {"method":"POST","path":"/api/createConfiguration","msg":"Configuration added successfully"}
+
+Log Time: 20150715014505 : Success getConfiguration
+Log Time: 20150715014505 : {"method":"POST","path":"/api/createConfiguration","msg":"Configuration added successfully"}
+Log Time: 20150715014834 : 3 expired tokens removed from blacklist
+Log Time: 20150715014834 : {"method":"POST","path":"/api/logins","msg":"Resourse not found."}
+Log Time: 20150715015402 : Success getConfiguration
+Log Time: 20150715015402 : {"method":"POST","path":"/api/createConfiguration","msg":"Configuration added successfully"}
+Log Time: 20150715015402 : {"method":"DELETE","path":"/api/deleteConfiguration","msg":"Configuration deleted successfully"}
+Log Time: 20150715015621 : {"msg":"User authenticated.  Retrieve token from header"}
+Log Time: 20150715015621 : Success getConfiguration
+Log Time: 20150715015621 : {"method":"POST","path":"/api/createConfiguration","msg":"Configuration added successfully"}
+Log Time: 20150715015621 : {"method":"DELETE","path":"/api/deleteConfiguration","msg":"Configuration deleted successfully"}
+Log Time: 20150715015644 : {"msg":"User authenticated.  Retrieve token from header"}
+Log Time: 20150715015644 : Success getConfiguration
+Log Time: 20150715015644 : {"method":"POST","path":"/api/createConfiguration","msg":"Configuration added successfully"}
+Log Time: 20150715015644 : {"method":"DELETE","path":"/api/deleteConfiguration","msg":"Configuration deleted successfully"}
+Log Time: 20150715015952 : 3 expired tokens removed from blacklist
+Log Time: 20150715015952 : {"msg":"User authenticated.  Retrieve token from header"}
+Log Time: 20150715015952 : Success getConfiguration
+Log Time: 20150715015952 : {"method":"POST","path":"/api/createConfiguration","msg":"Configuration added successfully"}
+Log Time: 20150715015952 : {"method":"DELETE","path":"/api/deleteConfiguration","msg":"Configuration deleted successfully"}
+Log Time: 20150715015952 : {"method":"PUT","path":"/api/updateConfiguration","msg":"Configuration updated successfully"}
+Log Time: 20150715015952 : {"method":"POST","path":"/api/logout","msg":"Logout Successful"}

@@ -1,0 +1,8 @@
+{"availableResources":[
+  "/api/login",
+  "/api/logout",
+  "/api/getConfigurations",
+  "/api/createConfiguration",
+  "/api/deleteConfiguration",
+  "/api/updateConfiguration"
+]}
