@@ -34,7 +34,7 @@ function testScript(){
 function authenticationCall(callback){
 
   var userData = JSON.stringify({
-    username : 'Billy',
+    username : 'demo-user',
     password : 'asdf1234'
   })
 
@@ -133,10 +133,10 @@ function getConfigCall(callback){
 function createConfigCall(callback){
 
   var newConfig = JSON.stringify({
-    name: 'name2',
-    hostname: 'hostname2',
-    port: 2222,
-    username: 'user1'
+    name: 'demo-server',
+    hostname: 'demo.example.com',
+    port: 3000,
+    username: 'admin'
   });
   // var newConfig = JSON.stringify({
   //   name: 'billy',
@@ -180,10 +180,10 @@ function createConfigCall(callback){
 function deleteConfigCall(callback){
 
   var newConfig = JSON.stringify({
-    name: 'billy',
-    hostname: 'billy.com',
-    port: 1369,
-    username: 'berwin'
+    name: 'demo-server',
+    hostname: 'demo.example.com',
+    port: 3000,
+    username: 'admin'
   });
   // var newConfig = JSON.stringify({
   //   name: 'name2',
@@ -228,10 +228,10 @@ function updateConfigCall(callback){
 
   var configs = JSON.stringify({
     newConfig : {
-      name: 'billy',
-      hostname: 'billy.com',
-      port: 1369,
-      username: 'berwin'
+      name: 'demo-server',
+      hostname: 'demo.example.com',
+      port: 3000,
+      username: 'admin'
     },
     oldConfig : {
       name: 'name2',

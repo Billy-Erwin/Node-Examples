@@ -21,7 +21,7 @@ var server = http.createServer(function(req, resp){
 
 });
 
-server.listen(8080);
+server.listen(3000);
 
 // HTTPS server should work with proper certs.  Node does
 // not like the self signed cert I provided
